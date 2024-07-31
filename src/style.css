@@ -1,0 +1,32 @@
+body {
+  background-color: #ebdfcc;
+}
+
+#content {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: #021b2b;
+}
+
+button {
+  margin: 8px;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: #b10c43;
+  color: #ebdfcc;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: #ff0841;
+}
+
+img {
+  border-radius: 5px;
+}
+
+
