@@ -14,3 +14,5 @@ Instruções:
 - Forneça o Contexto: No componente raiz (App.jsx), envolva os componentes filhos com o provedor NavigationHistoryContext.Provider e forneça um estado para o histórico de navegação.
 - Consuma o Contexto: Crie um componente NavigationTracker.jsx que consuma o contexto NavigationHistoryContext e adicione entradas ao histórico de navegação.
 - Exiba o Histórico: Crie um componente HistoryList.jsx que consuma o contexto NavigationHistoryContext e exiba o histórico de navegação do usuário.
+
+### Você pode acessar através do link: https://alessandra1999.github.io/navigation-history-reactjs/
